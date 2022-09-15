@@ -49,7 +49,7 @@ public class Main {
                 System.out.print(numbers[j]);
                 break;
             }
-            System.out.print(numbers[(int) j] + ",");
+            System.out.print(numbers[j] + ",");
         }
         System.out.println();
         for (int k = myArray.length - 1; k >= 0; k--) {
